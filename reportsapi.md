@@ -22,7 +22,7 @@
 
 **4. Request Headers**
    - `Content-Type: application/json`
-   - Optional: `Authorization: Bearer <token>` (if authentication is required).
+   - `Authorization: Basic'.
 
 ---
 
@@ -32,8 +32,7 @@
    - **Request Example:**
      ```http
      GET /api/perspectives/mostafa7583 HTTP/1.1
-     Host: api.example.com
-     Authorization: Bearer <token>  (optional)
+     `Authorization: Basic'.
      ```
 
 ---
