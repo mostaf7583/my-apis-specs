@@ -161,5 +161,3 @@ To create an API that retrieves an object called **"Perspective"** and returns a
    ```
 
 ---
-
-This specification outlines how your API should behave, making it easy for both developers and users to interact with it. If you need to add more details or modify anything, feel free to let me know!
