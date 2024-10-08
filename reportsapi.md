@@ -31,7 +31,7 @@
 
    - **Request Example:**
      ```http
-     GET /api/perspectives/mostafa7583 HTTP/1.1
+     GET /perspectives/mostafa7583 HTTP/1.1
      `Authorization: Basic'.
      ```
 
@@ -39,7 +39,7 @@
 
 **6. Response Format**
 
-   The response is a JSON object that contains the layout information of the perspective.
+   The response is a JSON object containing the perspective's layout information.
 
    ```json
    {
