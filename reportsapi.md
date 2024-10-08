@@ -4,14 +4,14 @@
 
 **1. API Overview**
    - **Purpose:** Retrieve the layout information of a perspective.
-   - **Endpoint:** `/api/perspectives/{perspectiveName}`
+   - **Endpoint:** `/perspectives/{perspectiveName}`
    - **Method:** `GET`
    - **Description:** This API takes a perspective name as a path parameter and returns the layout information in a structured format.
 
 ---
 
 **2. Endpoints**
-   - **GET** `/api/perspectives/{perspectiveName}`
+   - **GET** `/perspectives/{perspectiveName}`
 
 ---
 
