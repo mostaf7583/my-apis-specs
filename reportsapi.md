@@ -1,5 +1,3 @@
-To create an API that retrieves an object called **"Perspective"** and returns a structured response like the one you described, your API specs should detail the input (perspectiveName) and the response format (LayoutMode object). Here’s a sample API specification for your project:
-
 ### API Specification: Get Perspective Layout
 
 ---
